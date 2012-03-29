@@ -89,7 +89,6 @@ Radio radios can be modified as follows, add 1 iron fence to increase the range,
 Radio towers have a default capacity of 1
 Any block other than Iron Fence/Iron/Gold/Diamond/Obsidian will break the antenna, this includes air. 
 Added operator list commands for in-game(with permissions), /XM list & /AM list, this is resource intensive so try not to use it too much. 
-Backwards compatible to 1.1-R1
 
 
 Permissions list
@@ -125,3 +124,4 @@ amchat.radio.fixed.set				permission to use 					/xm set <pass|code|freq|admin> 
 amchat.radio.fixed.chown   			permission to give away ownership 	/xm chown <id> <player>| /xm chown <id> <offline player> <offlineplayername 2ndtime> 
 amchat.radio.fixed.fav  			permission to use 					/xm fav and /xm # commands /xm fav|/xm fav <id>|/xm #
 amchat.radio.fixed.info				permission to use 					/xm info command /xm info <id>
+
